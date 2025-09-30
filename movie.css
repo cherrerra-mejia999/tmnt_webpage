@@ -167,8 +167,8 @@ dl{
 }
 
 #validators {
-    position: fixed;
-    bottom: 1px;
+    position: absolute;
+    bottom: -320px;
     right: 260px;
 }
 
