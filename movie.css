@@ -1,5 +1,5 @@
 body{
-    background-image: url(/background.png);
+    background-image: url("background.png");
     margin: 0px;
     padding: 0px;
 }
@@ -167,9 +167,9 @@ dl{
 }
 
 #validators {
-    position: absolute;
-    bottom: -320px;
-    right: 260px;
+    position: fixed;
+    bottom: 200px;
+    right: 780px;
 }
 
 #validators img {
