@@ -168,8 +168,8 @@ dl{
 
 #validators {
     position: fixed;
-    bottom: 235px;
-    right: 790px;
+    bottom: 1px;
+    right: 260px;
 }
 
 #validators img {
