@@ -1,5 +1,8 @@
 body{
-    background-image: url("background.png");
+    background-image: url("./background.png");
+    background-repeat: repeat;
+    background-attachment: fixed;
+    background-position: top left;
     margin: 0px;
     padding: 0px;
 }
@@ -168,8 +171,8 @@ dl{
 
 #validators {
     position: fixed;
-    bottom: 200px;
-    right: 780px;
+    bottom: 10px;
+    right: 10px;
 }
 
 #validators img {
